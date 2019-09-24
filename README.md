@@ -30,3 +30,5 @@ https://github.com/luoenen/SuperHuelLibrary
 
 请自行安装python3，execjs，调整文件编码问题
 
+
+使用需修改system_config中的SessionId，具体教程https://www.bilibili.com/video/av39398182
