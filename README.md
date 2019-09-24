@@ -4,6 +4,7 @@
 
 本程序的原作者为罗申申 "TECH申申" WeiBo：https://weibo.com/u/5585212629
 
+https://github.com/luoenen/SuperHuelLibrary
 
 因为我一个同学哥们要考湘潭大学研究生，所以将原作者河南财经政法大学选座改为湘潭大学选座
 
