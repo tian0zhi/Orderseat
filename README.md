@@ -21,7 +21,7 @@ https://github.com/luoenen/SuperHuelLibrary
 需修改为python/lib/subprocess.py 594行 encoding="utf-8"，自行配置execjs node.js
 
 
-二次开发作者:天志 Q1244517363
+二次开发作者:天志 Q1244517363 https://github.com/tian0zhi/Orderseat
 
 
 
