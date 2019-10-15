@@ -19,7 +19,9 @@ https://github.com/luoenen/HUELibraryAutoBook
 
 
 需修改execjs包中的_external_runtime.py，找到Popen(有两处)，在参数列表中添加encoding='utf-8'，如
+
 p = Popen(cmd, stdin=PIPE, stdout=PIPE, stderr=PIPE, cwd=self._cwd, universal_newlines=True,encoding='utf-8')
+
 自行配置execjs node.js
 
 
