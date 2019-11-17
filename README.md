@@ -25,8 +25,7 @@ p = Popen(cmd, stdin=PIPE, stdout=PIPE, stderr=PIPE, cwd=self._cwd, universal_ne
 自行配置execjs node.js
 
 
-二次开发作者:天志 Q1244517363 https://github.com/tian0zhi/Orderseat
-
+二次开发作者：天志Q2530927900
 
 
 2019.09.19
